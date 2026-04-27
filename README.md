@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hullo! I'm Andis 👋 (pronounced like "on this").
 
-<!--
-**andisab/andisab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build agentic systems and AI-assisted development tooling, currently at [Provectus](https://provectus.com) — an [Anthropic](https://www.anthropic.com/) Applied AI partner.
 
-Here are some ideas to get you started:
+**What I'm working on right now:**
+- Production agentic systems for enterprise legacy modernization (Claude Code, MCP infrastructure, autonomous coding loops)
+- Reference implementations for the Provectus AI Engineering Stack — agent registries, MCP infrastructure, end-to-end autonomous TDD harnesses
+- Open-source tooling around the Claude Code ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent talks:** AWS Summit London · Lisbon · San Francisco, CA — *Claude Code and agentic development workflows*
+
+**Credentials:** Anthropic Certified Architect — Foundations (inaugural cohort)
+
+**Background:** ~25 years building and scaling production systems. Previously VP of Engineering  Volley Automation and Fluence Energy, Director of Engineering at Figure Eight/Appen, Sr. Director of Engineering at Revinate. Earlier: staff engineer, tech lead, & founder (IP telephony app start-up, web/mobile app business).
+
+📍 San Francisco, CA
+🔗 [andisblukis.com] · [LinkedIn](https://linkedin.com/in/andisab)
+✉️ andis.blukis[at]gmail.com
+---
+
