@@ -16,4 +16,4 @@ I build agentic systems and AI-assisted development tooling, currently at [Prove
 
 ---
 
-📍 San Francisco, CA &nbsp;·&nbsp; 🔗 [blukis.com](https://blukis.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/andisab) &nbsp;·&nbsp; ✉️ andis.blukis[at]gmail.com
+[LinkedIn](https://linkedin.com/in/andisab) &nbsp;·&nbsp; ✉️ andis.blukis[at]gmail.com &nbsp;·&nbsp; 🔗 [blukis.com](https://blukis.com) &nbsp;·&nbsp; 📍 San Francisco, CA
